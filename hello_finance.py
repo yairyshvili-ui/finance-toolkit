@@ -1,3 +1,4 @@
-ticker="wmt"
-price=98.5
-print(ticker,price)
+ticker = "wmt"
+price = 98.5
+print(ticker, price)
+print("analysis complete")
