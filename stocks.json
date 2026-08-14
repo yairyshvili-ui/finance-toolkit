@@ -1,0 +1,7 @@
+[
+    {"ticker": "AAPL", "pe": 28},
+    {"ticker": "MSFT", "pe": 35},
+    {"ticker": "GOOGL", "pe": 30},
+    {"ticker": "AMZN", "pe": 60},
+    {"ticker": "NOW", "pe": 15}
+]      

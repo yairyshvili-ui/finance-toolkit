@@ -1,0 +1,27 @@
+[
+    {
+        "ticker": "AAPL",
+        "pe": 28,
+        "label": "Expensive"
+    },
+    {
+        "ticker": "MSFT",
+        "pe": 35,
+        "label": "Expensive"
+    },
+    {
+        "ticker": "GOOGL",
+        "pe": 30,
+        "label": "Expensive"
+    },
+    {
+        "ticker": "AMZN",
+        "pe": 60,
+        "label": "Expensive"
+    },
+    {
+        "ticker": "NOW",
+        "pe": 15,
+        "label": "Fair"
+    }
+]
